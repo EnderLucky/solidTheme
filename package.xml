@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>SolidWorks</name>
+   <description>SolidWorks dark theme for FreeCAD</description>
+  <version>0.0.9</version>
+  <maintainer email="eleanor@clifford.lol">Eleanor Clifford</maintainer>
+  <license file="LICENSE">MIT</license>
+  <icon>resources/icons/SolidWorks.svg</icon>
+
+  <content>
+    <preferencepack>
+      <name>SolidWorks</name>
+      <description>SolidWorks dark theme for FreeCAD</description>
+      <tag>color</tag>
+      <tag>dark</tag>
+      <tag>solidworks</tag>
+    </preferencepack>
+  </content>
+
+</package>
